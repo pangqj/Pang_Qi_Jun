@@ -2,7 +2,7 @@
 ### CONTACT
 
 <!-- Add your details -->
-✉️: email_id@pangqijun@gmail.com 
+✉️: email_id pangqijun@gmail.com 
 &nbsp;&nbsp; 📲 +65-XXXXXXXXXX
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/qi-jun-pang/) 
 
@@ -32,10 +32,10 @@ I am __Pang Qi Jun__, a conscientious and determined professional who is experie
 <!-- Add your details -->
 ##### DIAGEO SINGAPORE
 CONTINUOUS IMPROVEMENT SPECIALIST<br>
-June-2019 to Present: 1 year 10 Months
+2019 to 2020: 1 year
 
-ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
-UNIT: BCG GAMMA
+ROLE: 
+UNIT: International Supply Centre, Singapore
 
 Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
 
