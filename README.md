@@ -12,11 +12,11 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://github.com/pangqj/Pang_Qi_Jun/blob/main/Pang%20Qi%20Jun.jpg?raw=true)
 
 <!-- Add your details -->
 
-I am __Pang Qi Jun__, a conscientious and determined professional who is experienced in leading quality improvement and optimisation efforts across product and service industries. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am __Pang Qi Jun__, a conscientious and determined professional who is experienced in leading quality improvement and optimisation efforts across product and service industries. I have contributed as a continuous improvement specialist for various industry leadeing companies in their business improvement and quality journey. I am involved in agile software development, while facilitating and cross-functional teams.
 
 
 <!-- Add link to the sections -->
