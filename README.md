@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://github.com/pangqj/Pang_Qi_Jun/blob/main/Pang%20Qi%20Jun.jpg?raw=true)
+![alt text](https://github.com/pangqj/Pang_Qi_Jun/blob/main/Pang%20Qi%20Jun_1.jpg?raw=true)
 
 <!-- Add your details -->
 
