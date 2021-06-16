@@ -30,8 +30,8 @@ I am __Pang Qi Jun__, a conscientious and determined professional who is experie
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-##### BOSTON CONSULTING GROUP
-SENIOR ANALYST<br>
+##### DIAGEO SINGAPORE
+CONTINUOUS IMPROVEMENT SPECIALIST<br>
 June-2019 to Present: 1 year 10 Months
 
 ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
